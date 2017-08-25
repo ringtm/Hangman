@@ -1,0 +1,40 @@
+body {
+	background-color: #000000;
+}
+h1 {
+	color: #1E90FF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 400%;
+}
+h2{
+	color: #ffffff;
+	text-align: center;
+}
+h3{
+	color: #1E90FF;
+}
+#answer{
+	color: #1E90FF;
+}
+.boxOne{
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+	height: 650px;
+	width: 600px;
+	float: right;
+}
+.boxTwo{
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+	height: 650px;
+	width: 600px;
+	float: left;
+}
+img{
+	align-content: center;
+	width: 700px;
+	height: 320px;
+}
